@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erblin</h1>
-<h3 align="center">A passionate developer from Munic</h3>
+<h3 align="center">A passionate developer from Munich</h3>
 
 - 👨‍💻 All of my projects are available at [erblintp.de](erblintp.de)
 
